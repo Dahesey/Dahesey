@@ -1,17 +1,32 @@
 <h2 align="left">Hi 👋! My name is Dahesey || A Techie Girlie || from Ghana-Accra</h2>
+<h3 align="center">A marketer and a tech enthusiast</h3>
 
-###
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/wave.gif" width="35" />
+
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dahesey&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dahesey&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
 
-<img align="right" height="200" src="https://i.imgflip.com/65efzo.gif"  />
+## About Me <img src="" width="45" />
 
-###
+- 🔭 **I have a first and second degree in marketing
+- 🌱 **Learning:** Software engineering @ ALX
+- 💬 **Ask Me About:** Marketing, Software & Web Development
+
+### Fun Facts <img src="" width="30" /> 
+- 🚀 Passionate about learning new things and finding new and exciting ways to do things.
+- 🎯 Always looking for new things to learn to improve myself.
+- 🎯 In the next year, you will see me marketing a software i built. Wont that be exciting!!
+- 📚 I have an idea about almost every topic because i love to read.
+<br>
+
+
+<img align="right" height="90" src="https://i.imgflip.com/65efzo.gif"  />
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -52,7 +67,7 @@
   <img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/whatsapp/whatsapp.svg" alt="WhatsApp logo" width="20" style="vertical-align:middle;margin-right:5px;"/> 
   <a href="https://wa.me/+233557339940" style="text-decoration:none;color:inherit;">WhatsApp</a> <br>
 </span> <br>
-###
+
 
 ### A Famous Quote: <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" />
 <a href="https://github.com/marketplace/actions/quote-readme">
@@ -72,4 +87,3 @@
 
 <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
-###
