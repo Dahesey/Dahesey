@@ -21,10 +21,10 @@
 - 🚀 Passionate about learning new things and finding new and exciting ways to do things.
 - 🎯 Always looking for new things to learn to improve myself.
 - 🎯 In the next year, you will see me marketing a software i built. Wont that be exciting!!
-- 📚 I have an idea about almost every topic because i love to read.
+- 📚 I have an idea about a lot of verying topic because i love to read.
 <br>
 
-<img align="center" height="300" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="center" height="350" src="https://i.imgflip.com/65efzo.gif"  />
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
