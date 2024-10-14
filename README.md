@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Dahesey || A Techie Girlie || from Ghana-Accra</h2>
+<h2 align="center">Hi 👋! My name is Dahesey || A Techie Girlie || from Ghana-Accra</h2>
 <h3 align="center">A marketer and a tech enthusiast</h3>
 
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/wave.gif" width="35" />
