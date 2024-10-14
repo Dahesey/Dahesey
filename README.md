@@ -29,7 +29,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
 </div>
 
-### Connect with Me <img src="" width="70" /> 
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=YOUR_GITHUB_USERNAME"  />
+</div>
+
+### Connect with Me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="70" /> 
 
 <span style="text-decoration:none;">
   <img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/gmail/gmail.svg" alt="Email logo" width="20" style="vertical-align:middle;margin-right:5px;"/> 
@@ -59,9 +63,10 @@
 <br>
 
 ### Here's some humor for you: <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width ='29' />
-<img src="" width = '11000' />
+<img src="https://readme-jokes.vercel.app/api" alt="Error fetching resource, Refresh again to view Jokes Card" width = '11000' />
 
 <br>
+
 
 <br clear="both">
 
