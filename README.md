@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Dahesey and I'm a Techie Girlie, from Ghana-Accra</h2>
+<h2 align="left">Hi 👋! My name is Dahesey || A Techie Girlie || from Ghana-Accra</h2>
 
 ###
 
@@ -29,17 +29,39 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
 </div>
 
-###
+### Connect with Me <img src="" width="70" /> 
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+<span style="text-decoration:none;">
+  <img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/gmail/gmail.svg" alt="Email logo" width="20" style="vertical-align:middle;margin-right:5px;"/> 
   <a href="mailto:dahesey@gmail.com" style="text-decoration:none;color:inherit;">Mail</a>
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</span> • 
+<span style="text-decoration:none;">
+  <img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/linkedin/linkedin.svg" alt="LinkedIn logo" width="20" style="vertical-align:middle;margin-right:5px;"/> 
   <a href="https://www.linkedin.com/in/cynthia-dodzi" style="text-decoration:none;color:inherit;">LinkedIn</a>
-</div>
-
+</span> • 
+<span style="text-decoration:none;">
+  <img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/x/x.svg" alt="X logo" width="20" style="vertical-align:middle;margin-right:5px;"/> 
+  <a href="" style="text-decoration:none;color:inherit;">Twitter</a>
+</span> • 
+</span> • 
+<span style="text-decoration:none;">
+  <img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/whatsapp/whatsapp.svg" alt="WhatsApp logo" width="20" style="vertical-align:middle;margin-right:5px;"/> 
+  <a href="https://wa.me/+233557339940" style="text-decoration:none;color:inherit;">WhatsApp</a> <br>
+</span> <br>
 ###
+
+### A Famous Quote: <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" />
+<a href="https://github.com/marketplace/actions/quote-readme">
+<!--STARTS_HERE_QUOTE_README-->
+• <i>Hello World!.</i>
+<!--ENDS_HERE_QUOTE_README-->
+</a>
+<br>
+
+### Here's some humor for you: <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width ='29' />
+<img src="" width = '11000' />
+
+<br>
 
 <br clear="both">
 
