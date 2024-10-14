@@ -13,7 +13,7 @@
 
 ## About Me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" />
 
-- 🔭 **I have a first and second degree in marketing
+- 🔭 I have a first and second degree in marketing
 - 🌱 **Learning:** Software engineering @ ALX
 - 💬 **Ask Me About:** Marketing, Software & Web Development
 
