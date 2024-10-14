@@ -11,13 +11,13 @@
 </div>
 
 
-## About Me <img src="" width="45" />
+## About Me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" />
 
 - 🔭 **I have a first and second degree in marketing
 - 🌱 **Learning:** Software engineering @ ALX
 - 💬 **Ask Me About:** Marketing, Software & Web Development
 
-### Fun Facts <img src="" width="30" /> 
+### Fun Facts <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="30" /> 
 - 🚀 Passionate about learning new things and finding new and exciting ways to do things.
 - 🎯 Always looking for new things to learn to improve myself.
 - 🎯 In the next year, you will see me marketing a software i built. Wont that be exciting!!
@@ -82,6 +82,4 @@
 
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
