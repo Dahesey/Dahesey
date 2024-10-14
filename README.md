@@ -58,7 +58,7 @@
 </span> • 
 <span style="text-decoration:none;">
   <img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/x/x.svg" alt="X logo" width="20" style="vertical-align:middle;margin-right:5px;"/> 
-  <a href="" style="text-decoration:none;color:inherit;">Twitter</a>
+  <a href="" style="text-decoration:none;color:white;">Twitter</a>
 </span> • 
 </span> • 
 <span style="text-decoration:none;">
